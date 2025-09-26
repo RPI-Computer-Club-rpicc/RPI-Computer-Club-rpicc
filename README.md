@@ -2,7 +2,7 @@
 **Learn • Build • Innovate**
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D560BAQF2mB3BiPR_FA/company-logo_200_200/B56ZmC2LHoHAAQ-/0/1758836863894/rpi_computer_club_logo?e=1761782400&v=beta&t=hC6vCmMXZFxCzfV9nsATjNwaadlo-dqPGwjGMM_3t-U" alt="RPI Computer Club Logo" width="200" />
+  <img src="https://raw.githubusercontent.com/RPI-Computer-Club-rpicc/RPI-Computer-Club-rpicc/refs/heads/main/logo-final-3.0.png" alt="RPI Computer Club Logo" width="200" />
 </p>
 
 Welcome to the official GitHub repository of **RPI Computer Club**, Rajshahi Polytechnic Institute – the hub of innovation, coding, and collaboration.
